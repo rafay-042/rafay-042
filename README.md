@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafay-042&label=Profile%20views&color=0e75b6&style=flat" alt="rafay-042" /> </p>
 
-- 🔭 I’m currently working on **C# and Unity for a game development project.**
+- 🔭 I’m currently working on **C# and Unity for a game development projects.**
 
-- 🌱 I’m currently learning **Flutter and Figma.**
+- 🌱 I’m currently learning **Flutter and Laravel.**
 
-- 👯 I’m looking to collaborate on **projects related to web development, mobile app development, game development etc.**
+- 👯 I’m looking to collaborate on **projects related to game development, web development, mobile app development etc.**
 
 - 🤝 I’m looking for help with **gaining field experience.**
 
-- 💬 Ask me about **React, React-native, MS-SQL, MYSQL, Unity.**
+- 💬 Ask me about ** Unity, Unreal Engine, React, React-native, MS-SQL, MYSQL.**
 
 - 📫 How to reach me **muhammad.rafay.rana@gmail.com**
 
