@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **projects related to game development, web development, mobile app development etc.**
 
-- 🤝 I’m looking for help with **gaining field experience.**
+- 🤝 I’m looking to **offer my services to start ups as well as established buisnesses.**
 
-- 💬 Ask me about ** Unity, Unreal Engine, React, React-native, MS-SQL, MYSQL.**
+- 💬 Ask me about ** Unreal Engine, C++, Unity, C#, 3D Modelling and Asset Creation.**
 
 - 📫 How to reach me **muhammad.rafay.rana@gmail.com**
 
