@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafay-042&label=Profile%20views&color=0e75b6&style=flat" alt="rafay-042" /> </p>
 
-- 🔭 I’m currently working on **C# and Unity for a game development projects.**
+- 🔭 I’m currently working on **Game development projects.**
 
 - 🌱 I’m currently learning **Flutter and Laravel.**
 
