@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafay-042&label=Profile%20views&color=0e75b6&style=flat" alt="rafay-042" /> </p>
 
-- 🔭 I’m currently working on **Game development projects.**
+- 🔭 I’m currently working as a Freelancer on **Game Development Projects.**
 
-- 🌱 I’m currently learning **Flutter and Laravel.**
-
-- 👯 I’m looking to collaborate on **projects related to game development, web development, mobile app development etc.**
+- 👯 I’m looking to collaborate on projects related to **Game Prototyping, Game Publishing, Advanced Gameplay Mechanic Integration, Game Design, Game Art, Game Asset Integration, Multiplayer, Game Narrative Design, Game Level Design**
 
 - 🤝 I’m looking to **offer my services to start ups as well as established buisnesses.**
 
