@@ -1,4 +1,4 @@
-[![MasterHead](https://metapi.edu.pk/wp-content/uploads/2023/03/MicrosoftTeams-image-38.png)](https://contentstatic.techgig.com/photo/86001236/coding-for-students-learn-with-these-7-apps.jpg?10556)
+[![MasterHead](https://gamemarketinggenie.com/wp-content/uploads/2025/06/medium-the-esports-athletes-is-playing-games-with-ai-generated-1.jpg)](https://contentstatic.techgig.com/photo/86001236/coding-for-students-learn-with-these-7-apps.jpg?10556)
 <h1 align="center">Hi 👋, I'm Muhammad Rafay Rana</h1>
 <h3 align="center">An innovative and a passionate developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://dxbcode.com/assets/images/index-meta.gif">
